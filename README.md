@@ -9,7 +9,7 @@
 
 https://openebs.io/
  
-**OpenEBS** is the most widely deployed and easy to use open-source storage solution for Kubernetes. 
+**OpenEBS** is the most widely deployed and easy to use open-source storage solution for Kubernetes. OpenEBS builds on Kubernetes to enable Stateful applications to easily access Dynamic Local PVs or Replicated PVs. By using the Container Attached Storage pattern users report lower costs, easier management, and more control for their teams. It has also been used by Bloomberg, Orange, Optoro, Arista, Comcast and CloudNative. 
 
 **OpenEBS** is the leading open-source example of a category of storage solutions sometimes called [Container Attached Storage](https://www.cncf.io/blog/2018/04/19/container-attached-storage-a-primer/). **OpenEBS** is listed as an open-source example in the [CNCF Storage Landscape White Paper](https://github.com/cncf/sig-storage/blob/master/CNCF%20Storage%20Landscape%20-%20White%20Paper.pdf) under the hyperconverged storage solutions.
 
